@@ -1,0 +1,29 @@
+<!-- @format -->
+
+some standard factory type problem
+structure createad is
+
+vehicle class (for ceratinf vehicle);
+
+car class and bike class (to implement the vehicle class and have create function from there)
+
+compile them
+
+create a client.cpp file
+
+create object files
+
+create executable for client via creating a static library with all the o files init
+
+like this
+![alt text](image-1.png)
+complete
+![alt text](image-2.png)
+
+create executabkle
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+all commands
+![alt text](image.png)

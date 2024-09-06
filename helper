@@ -1,0 +1,18 @@
+<!-- @format -->
+
+some standard patterns to solve standard problems
+
+1. creational design patterns
+   -factory  
+   -abstact factory
+   -singleton
+
+2. structural design pattern //organise these class to form structure
+   -bridge
+   -adaptive
+   -composite
+
+3. behavioral design pattern //how to communicate between classes
+   -interpreter
+   -startegy
+   -observer
