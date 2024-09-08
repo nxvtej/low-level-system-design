@@ -1,0 +1,8 @@
+<!-- @format -->
+
+means we will create only one instance of class
+
+for example making a connection with database we need to make sure that only one connection is made with databse
+
+see for each user the instance is created
+![alt text](image.png)

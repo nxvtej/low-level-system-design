@@ -1,0 +1,11 @@
+<!-- @format -->
+
+better approach
+![alt text](image.png)
+
+child classes
+![alt text](image-1.png)
+
+object will be payment flow = new paytofriend
+then this willbe used to call parent class functino sendmoeny
+and that will end up calling children funcitons executig

@@ -1,0 +1,21 @@
+when we need to crewate a clone of object
+
+where object is very expensive to create again and again
+so
+one way is 
+
+Student obj = new Student(...parm);
+Student obj2 = new Student();
+
+obj2.name = obj.name;
+obj2.name = obj.name;
+obj2.name = obj.name;
+
+
+ans soo one
+1. but how to copy the private variable those cant be accessed outside
+2. the client where the obj is crveated of student has to know about all the objects and then obly he can copy
+example 100 obj we only need to copy 50 of them, but the client will have access to all the 100 
+
+
+so in order to obercome this  we have prototype whrer within the class we expose the clone function for ease of cloning

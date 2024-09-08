@@ -1,0 +1,28 @@
+<!-- @format -->
+
+combinae differenct classes and object
+to solve a problem
+
+there are 7 differenct
+
+1. proxy
+2. facade
+   only expose necessat details
+3. adaptor
+   when twp are incompatible interface
+   we inrtroduce a mediator
+   ![alt text](image-2.png)
+4. decorator
+   when we are adding something to object
+   ![alt text](image.png)
+   see how we are having seperate class for toppings
+   ![alt text](image-1.png)
+
+5. bridge pattern
+   helps to decouple an absrraction fro its nimplenentation, so tgat two can vart independently.
+
+   ![alt text](image-3.png)
+
+   so we cant just add up in this
+   thus se seperate the implemetation
+   ![alt text](image-4.png)

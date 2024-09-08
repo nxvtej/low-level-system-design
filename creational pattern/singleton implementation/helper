@@ -1,0 +1,15 @@
+<!-- @format -->
+
+now correcting the code we can have static counter to keep the track of users
+![alt text](image.png)
+
+now its a great work till adding that static loggerinstance which returns the instance and make srure we have only one instance
+![alt text](image-1.png)
+
+but but
+what about multithreading
+if we have two threads they both will try to access the getlogger at same time and might end up creating two insance
+
+now making thread safe
+
+simple solution use mutex in header file and just lock it

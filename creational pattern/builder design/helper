@@ -1,0 +1,13 @@
+<!-- @format -->
+
+complex object with complex properties
+configurations
+
+try creating desktop object
+then create ram, rom, screen bla bla bla
+
+one way is to write n constructor for each but thats not flexible
+
+so
+
+![alt text](image.png)
